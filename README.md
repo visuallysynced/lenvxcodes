@@ -11,7 +11,7 @@
 # Experience
 
 [![Repository 1](https://github-readme-stats.vercel.app/api/pin/?username=lenvxcodes&repo=lenvxshell2)](https://github.com/lenvxcodes/lenvxshell2)
-[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=lenvxcodes&mindemg)](https://github.com/lenvxcodes/mindemg)
+[![Repository 2](https://github-readme-stats.vercel.app/api/pin/?username=lenvxcodes&repo=mindemg)](https://github.com/lenvxcodes/mindemg)
 [![Repository 3](https://github-readme-stats.vercel.app/api/pin/?username=lenvxcodes&repo=webhookpy)](https://github.com/lenvxcodes/webhookpy)
 
 
